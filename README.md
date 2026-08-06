@@ -89,3 +89,15 @@ Por se tratar de um projeto acadêmico de TCC desenvolvido em prazo delimitado, 
 - `rotvolta.cs` & `roda.cs`: Calculam a rotação contínua e a trajetória orbital das serras giratórias em torno do cenário.
 - `Trampolim.cs`: Aplica uma força vertical instantânea no `Rigidbody2D` do jogador.
 - `Espinhos.cs`: Recarrega a cena atual via `SceneManager` ao colidir com o jogador.
+
+## 👥 Créditos e Autoria
+
+Projeto desenvolvido como Trabalho de Conclusão do Curso Técnico em Informática do **Colégio Cruzeiro do Sul** (São Paulo - 2023), sob orientação do **Prof. Ricardo Bonini de Oliveira**.
+
+### Equipe de Desenvolvimento
+- **Programação Principal & Level Design:** Henrique Araujo
+- **Design de Personagem & Pixel Art (Nyxel):** Nicolas Ferreira
+- **Desenvolvimento Colaborativo:** João Gabriel & Kauan Angelin
+
+### Assets de Terceiros
+- **Cenários, Tilesets e Armadilhas:** Pacote *Pixel Adventure 1* por *Pixel Frog* (Unity Asset Store)
